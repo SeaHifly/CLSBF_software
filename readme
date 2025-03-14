@@ -1,8 +1,7 @@
 
 
 
-This is an open software for infrared small target labeling.
-Under Development! We will release it recently.
+This is the initial version, which still has a few issues. Due to time constraints, we haven't been able to address or optimize all of them yet. However, under normal circumstances, following the instructions in the 'How to use' file should allow for proper application.
 
 
 ![image](https://github.com/SeaHifly/CLSBF_software/blob/main/GIF/CLSBF_Case1.gif)
