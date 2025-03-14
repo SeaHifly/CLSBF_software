@@ -1,7 +1,11 @@
+This software is designed for annotating infrared small targets (ISTs), particularly suitable for targets not larger than 16×16 pixels. The software is released as an executable file (.exe) and can be used in a Windows environment. It is recommended to use it with a screen resolution of at least 1080P for optimal performance.
+This software will streamline and accelerate infrared small target labeling, with improved accuracy under conditions of local zoom and stretching. We name it “XH_CLSBF_Label”. In this software, some assistant models will help generate a local bounding box and pixel-level segmentation labels in advance. Although these are not always perfectly accurate, they help reduce the labeling effort. 
+
+
 google drive: https://drive.google.com/drive/folders/1NOoiJvJNt6rtljSxNmCkz7zl_ETCNvx3?usp=sharing
 
 
 This is the initial version, which still has a few issues. Due to time constraints, we haven't been able to address or optimize all of them yet. However, under normal circumstances, following the instructions in the 'How to use' file should allow for proper application.
 
 
-![image](https://github.com/SeaHifly/CLSBF_software/blob/main/GIF/CLSBF_Case1.gif)
+
